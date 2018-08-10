@@ -1,4 +1,5 @@
 # devops.aula02
-Leonardo Di Caprio
-Angelina Jolie
-Brad Pitt
+# Leonardo Di Caprio
+# Lazaro Ramos
+# Brad Pitt
+# Juliana Paes
